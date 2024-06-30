@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://soniniter.github.io/sitemap
+Sitemap: https://soniniter.github.io/app/sitemap
+Sitemap: https://soniniter.github.io/assets/sitemap
+Sitemap: https://soniniter.github.io/css/sitemap
+Sitemap: https://soniniter.github.io/includes/sitemap
+Sitemap: https://soniniter.github.io/item/sitemap
+Sitemap: https://soniniter.github.io/src/sitemap
